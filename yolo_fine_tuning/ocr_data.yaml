@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/YOLO_fine_tuning/data/yolo_format_data/train
+val: /content/drive/MyDrive/YOLO_fine_tuning/data/yolo_format_data/val
+test: /content/drive/MyDrive/YOLO_fine_tuning/data/yolo_format_data/test
+nc: 51
+names: ['\\frac', '\\infty', '\\left(', '\\left|', '\\pi', '\\right)', '\\right|', '\\sqrt', '\\theta', '+', '-', '/', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '=', 'a', 'b', 'c', 'd', 'e', 'g', 'h', 'k', 'n', 'p', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '\\lim_', '\\log', '\\csc', '\\to', '\\cos', '\\sec', '\\sin', '\\ln', '\\tan']
