@@ -1,8 +1,5 @@
 # From mathematical expression image to latex
 
-![example](https://github.com/FedericoAlvetreti/Image_to_latex/assets/115395996/fe8de465-504e-4bd5-beb0-31a5ee1f4f4f)
-
-![Screenshot 2023-12-28 182936](https://github.com/FedericoAlvetreti/Image_to_latex/assets/115395996/64d7b531-a7b4-4f23-a343-8ba3909c6d11)
 
 This project has been made by Federico Alvetreti, Aurora Bassani, Erica Luciani and Laura Mignella. 
 It has been used as the final project for the Advanced Machine Learning 2023-2024 course in Sapienza University of Rome.
