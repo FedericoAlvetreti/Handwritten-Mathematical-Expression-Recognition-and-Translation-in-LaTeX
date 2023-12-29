@@ -2,9 +2,9 @@
 
 This project has been made by Federico Alvetreti, Aurora Bassani, Erica Luciani and Laura Mignella. 
 It has been used as the final project for the Advanced Machine Learning 2023-2024 course in Sapienza University of Rome.
-![example_2png](https://github.com/FedericoAlvetreti/Handwritten-Mathematical-Expression-Recognition-and-Translation-in-LaTeX/assets/115395996/5e42a9a4-25fc-42b8-ac43-8860698e6b1f)
-![Screenshot 2023-12-29 154213](https://github.com/FedericoAlvetreti/Handwritten-Mathematical-Expression-Recognition-and-Translation-in-LaTeX/assets/115395996/3bf1a724-0450-472b-98f0-afde7cd9d432)
-![Screenshot 2023-12-29 154319](https://github.com/FedericoAlvetreti/Handwritten-Mathematical-Expression-Recognition-and-Translation-in-LaTeX/assets/115395996/5b6cac09-4271-4364-9380-353e073d8907)
+
+
+![collage (2)](https://github.com/FedericoAlvetreti/Handwritten-Mathematical-Expression-Recognition-and-Translation-in-LaTeX/assets/115395996/00f28fa1-8cac-41b7-a308-e0bbc239e5ef)
 
 
 # Purpose and framework 
