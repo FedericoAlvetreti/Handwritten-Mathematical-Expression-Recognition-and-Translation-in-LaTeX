@@ -1,8 +1,9 @@
-# From mathematical expression image to latex
-
+# Handwritten mathematical Expression recognition and translation in LaTeX
 
 This project has been made by Federico Alvetreti, Aurora Bassani, Erica Luciani and Laura Mignella. 
 It has been used as the final project for the Advanced Machine Learning 2023-2024 course in Sapienza University of Rome.
+
+![collage (2)](https://github.com/FedericoAlvetreti/Handwritten-Mathematical-Expression-Recognition-and-Translation-in-LaTeX/assets/115395996/09e0466c-2a4d-4abb-8df4-24c23634a1f4)
 
 # Purpose and framework 
 We wanted to build a cascade model consisting of two phases:
