@@ -1,6 +1,7 @@
 # Handwritten mathematical Expression recognition and translation in LaTeX
 
-This project has been made by Federico Alvetreti, Aurora Bassani, Erica Luciani and Laura Mignella. 
+This project has been made by **Federico Alvetreti**, **Aurora Bassani**, **Erica Luciani** and **Laura Mignella**.
+
 It has been used as the final project for the Advanced Machine Learning 2023-2024 course in Sapienza University of Rome.
 
 
